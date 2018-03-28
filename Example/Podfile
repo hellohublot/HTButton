@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HTButton_Example' do
+  pod 'HTButton', :path => '../'
+
+  target 'HTButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
