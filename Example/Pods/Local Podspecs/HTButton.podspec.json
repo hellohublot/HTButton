@@ -1,0 +1,22 @@
+{
+  "name": "HTButton",
+  "version": "0.1.0",
+  "summary": "A short description of HTButton.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hellohublot/HTButton",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hellohublot": "hublot@aliyun.com"
+  },
+  "source": {
+    "git": "https://github.com/hellohublot/HTButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HTButton/Classes/**/*"
+}

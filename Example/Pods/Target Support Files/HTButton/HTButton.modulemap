@@ -1,0 +1,6 @@
+framework module HTButton {
+  umbrella header "HTButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

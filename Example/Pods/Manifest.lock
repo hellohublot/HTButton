@@ -1,0 +1,16 @@
+PODS:
+  - HTButton (0.1.0)
+
+DEPENDENCIES:
+  - HTButton (from `../`)
+
+EXTERNAL SOURCES:
+  HTButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HTButton: 6e3781f434707b88125b9e05d65497f74fd27fe3
+
+PODFILE CHECKSUM: dacd4063b377dfe0effe9593b2513460e55ca0bf
+
+COCOAPODS: 1.4.0

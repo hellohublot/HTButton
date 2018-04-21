@@ -40,7 +40,7 @@
 		2B2A530C88AD7145FC5E7D18 /* Pods_HTButton_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HTButton_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3589DB6D857D50C870D8B87D /* Pods-HTButton_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTButton_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HTButton_Tests/Pods-HTButton_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3895E1C15F6E82A4C6959B38 /* Pods_HTButton_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HTButton_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5401E0F0EA80FD7E9FE3E1B8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		5401E0F0EA80FD7E9FE3E1B8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5F79B74B481887D131EC6AB8 /* Pods-HTButton_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTButton_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HTButton_Tests/Pods-HTButton_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* HTButton_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HTButton_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -64,9 +64,9 @@
 		62879B9E6485E2E51D95CB49 /* Pods-HTButton_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTButton_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HTButton_Example/Pods-HTButton_Example.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8F1206ACFDB96DE3C7F4BEF4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8F1206ACFDB96DE3C7F4BEF4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B8038619B7AB730600628FC0 /* Pods-HTButton_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTButton_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HTButton_Example/Pods-HTButton_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F7DA2B3258BF5E2F74EB0584 /* HTButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HTButton.podspec; path = ../HTButton.podspec; sourceTree = "<group>"; };
+		F7DA2B3258BF5E2F74EB0584 /* HTButton.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HTButton.podspec; path = ../HTButton.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
